@@ -5,6 +5,7 @@
         <members>RunTestSchedulerTest</members>
         <members>RunTestSendEmailScheduler</members>
         <members>RunTestUtil</members>
+        <members>testjenkins</members>
         <name>ApexClass</name>
     </types>
     <types>
